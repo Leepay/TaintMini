@@ -1,0 +1,4 @@
+wxapkg/*
+*.pyc
+output/*
+pdg_js/node_modules/*
